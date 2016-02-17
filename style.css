@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	background: #999999;
+}
+
+main p {
+	color: #771122;
+	border: 1px solid black;
+}
+
+li {
+	color: green;
+}
+
+header {
+	background-color: black;
+	color: white;
+}
+
+ol, ul {
+	width: 100px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+div {
+	width: 400px;
+	margin: 0 auto;
+}
